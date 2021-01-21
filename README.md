@@ -1,2 +1,2 @@
 # Python-Essentials
-In this repository, there are lots of Python programs from different assignments of my python course. 
+In this repository, there are three basic Python programs from assignments of my python course.  
