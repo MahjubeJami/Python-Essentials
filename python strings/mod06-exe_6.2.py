@@ -11,4 +11,3 @@ str = 'inet addr:127.0.0.1  Mask:255.0.0.0'
 at_por = str.find(':')
 portion = str[at_por+1:]
 print(portion.rstrip('  Mask:255.0.0.0'))
-
